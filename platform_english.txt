@@ -76,6 +76,7 @@
     "SFUI_Map_ze_ffvii_temple_ancient"                              "FFVII Temple Ancient"
     "SFUI_Map_ze_ffxii_feywood_t"                                   "FFXII Feywood"
     "SFUI_Map_ze_ffxii_westersand_v7_t"                             "FFXII Westersand v7"
+    "SFUI_Map_ze_ffxii_westersand_v8"                               "FFXII Westersand v8"
     "SFUI_Map_ze_ffxiv_reisen_temple"                               "FFXIV Reisen Temple"
     "SFUI_Map_ze_firewall_laboratory_part1_p"                       "Firewall Laboratory Part 1"
     "SFUI_Map_ze_firewall_laboratory_part2_p"                       "Firewall Laboratory Part 2"
