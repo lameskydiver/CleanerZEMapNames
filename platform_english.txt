@@ -249,7 +249,7 @@
     "SFUI_Map_ze_random_p"                                          "Random"
     "SFUI_Map_ze_ratatouille"                                       "Ratatouille"
     "SFUI_Map_ze_requiem_test"                                      "Requiem"
-    "SFUI_Map_ze_rien_z"                                              "Rien"
+    "SFUI_Map_ze_rien_z"                                            "Rien"
     "SFUI_Map_ze_rizomata_p"                                        "Rizomata"
     "SFUI_Map_ze_rooftop_runaway1_p"                                "Rooftop Runaway 1"
     "SFUI_Map_ze_rooftop_runaway2_p"                                "Rooftop Runaway 2"
